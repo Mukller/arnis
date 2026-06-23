@@ -42,7 +42,3 @@ cargo run --release -- --lat 52.5200 --lon 13.4050 --radius 600
 
 - Rust 1.75+
 - Доступ к интернету (Overpass API)
-
-## Источник вдохновения
-
-[arnis](https://github.com/louis-e/arnis) из HelloGitHub #120
